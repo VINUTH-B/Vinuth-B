@@ -36,4 +36,4 @@
 💻 Python | HTML | JavaScript | Bash  
 🔍 OpenCV | Scikit-learn | Pandas | TensorFlow  
 🔒 RSA | ChaCha20 | Cryptography  
-☁️ Google Cloud | Firebase | GitHub Pages  
+☁️ Google Cloud | Firebase   
