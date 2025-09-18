@@ -33,7 +33,6 @@
 ## 🧰 Tech Stack
 
 ```text
-💻 Python | HTML | JavaScript | Bash  
-🔍 OpenCV | Scikit-learn | Pandas | TensorFlow  
+💻 Python | 
 🔒 RSA | ChaCha20 | Cryptography  
-☁️ Google Cloud | Firebase   
+
