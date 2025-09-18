@@ -4,7 +4,7 @@
 📍 Currently in the USA (F1 Visa)  
 💡 I’m interested in AI-driven security, biomedical AI, and real-time ML applications  
 🌍 Portfolio: yet-building  
-📫 Reach me:[LinkedIn](www.linkedin.com/in/vinuthbasavaraj) | [Email](vinuthbasavaraj@email.com)  
+📫 Reach me:[LinkedIn](linkedin.com/in/vinuth-basavaraj-460b732b2/) | [Email](vinuthbasavaraj@email.com)  
 
 ---
 
