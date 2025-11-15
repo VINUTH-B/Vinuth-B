@@ -20,10 +20,6 @@
   `Sentiment Modeling | Local DBs | AI Personalization`  
   Replicates human-like behavior using vector-based emotional analysis.
 
-- 📚 **Voice Book AI**  
-  `Flask | Google Cloud | Gemini 1.5`  
-  Upload a PDF, ask via voice, and get spoken responses from an AI model.
-
 - 💵 **Text & Currency Recognition for the Visually Impaired**  
   `OpenCV | TensorFlow | Real-time Camera Feed`  
   Detects Indian currency and reads text aloud.
